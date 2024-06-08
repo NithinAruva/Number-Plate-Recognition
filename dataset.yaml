@@ -1,0 +1,6 @@
+# dataset.yaml
+train: ../Licplatesdetection_train/images/train
+val: ../Licplatesdetection_train/images/val
+
+nc: 1
+names: ['license_plate']
